@@ -31,5 +31,8 @@ npm test
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 =======
 # vue-start
-使用vue-cli 脚手架创建项目
+使用vue-cli 脚手架创建项目  模仿小米商城首页
 >>>>>>> d000665ca04bb9d38463714c89a2ad06fe36c33b
+
+
+
